@@ -1,0 +1,43 @@
+-------------Topics completed in ADV as before 16th March 2024-------------
+
+I> Exploring the level of detail 
+    1. through color
+    2. through size
+    3. through label
+    4. through tooltip
+
+II> Show Me options in Tableau
+
+III> Aggregations in Tableau
+
+IV> Dates
+	1. Continuous dates
+	2. Discrete dates
+	3. Decomposition of dates into day, month, quarter, week, weekday, etc.\
+
+V> Quick table calculation
+
+VI> Calculative fields
+
+VII> Filetr
+	1. General filter
+	2. Wildcard (for text - string comparison)
+	3. Conditional
+	4. Top
+		-- Parameters
+	5. Contextual
+	
+VIII> Group
+
+IX> Set
+
+X> Basic Geo Map
+
+XI> Predictive Analysis
+	1. Trend line
+	
+-------------Agenda for 16th March 2024-------------
+
+XII> Advance Filtering
+XIII> Advance Map
+XIV> Working with Multiple files
